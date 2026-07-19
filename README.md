@@ -152,7 +152,7 @@
 
 # 📌 Featured Project
 
-## 🚀 SmartSales AI
+## 🚀 SmartSales AI 
 
 AI-powered Sales & Inventory Management System
 
