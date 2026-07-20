@@ -7,7 +7,7 @@
 ### 🚀 Artificial Intelligence Student | Python Developer | AI Enthusiast | Full-Stack Developer
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Python+Developer;Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Internships"/>
+<img src="https://readme-typing-svg.demolab.com?          font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Python+Developer;Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Internships"/>
 </p>
 
 <p align="center">
