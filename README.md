@@ -11,7 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=Mahesh-2006-code1&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </div>
-
 ---
 
 # 🚀 About Me
